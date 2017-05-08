@@ -1,0 +1,4 @@
+Cut Settings
+Kerf = 0.28mm
+speed = 5 mm/s
+power = 10%
